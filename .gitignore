@@ -1,0 +1,13 @@
+# Unity (if the project is opened from this folder)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+.vs/
+.idea/
+__pycache__/
